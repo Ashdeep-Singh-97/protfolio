@@ -1,4 +1,4 @@
-import pdf from "/public/sample.pdf";
+import pdf from "/sample.pdf";
 
 export default function AboutMe() {
   return (
@@ -14,7 +14,7 @@ export default function AboutMe() {
             alt="Profile picture"
             className="aspect-square overflow-hidden rounded-2xl object-cover"
             height={300}
-            src="/public/Jiraiya.jpg"
+            src="/Jiraiya.jpg"
             width={300}
           />
           <div className="space-y-4">

@@ -10,21 +10,21 @@ export default function Contact() {
         <div className="mr-40 md:mr-64 flex flex-row justify-around w-full">
           <a href="https://in.linkedin.com/in/ashdeep-singh-56b128193?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" >
             <img
-              src="/public/linkedin-logo.png"
+              src="/linkedin-logo.png"
               alt="LinkedIn"
               className="h-20 w-20 hover:opacity-60 transition-opacity"
             />
           </a>
           <a href="https://github.com/Ashdeep-Singh-97" target="_blank" >
             <img
-              src="/public/github.png"
+              src="/github.png"
               alt="GitHub"
               className="h-20 w-20 hover:opacity-60 transition-opacity"
             />
           </a>
           <a href="mailto:ashdeepsingh1997@gmail.com">
             <img
-              src="/public/gmail.png"
+              src="/gmail.png"
               alt="Gmail"
               className="h-20 w-20 hover:opacity-60 transition-opacity"
             />

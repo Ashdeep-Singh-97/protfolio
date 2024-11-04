@@ -6,21 +6,21 @@ export default function Home() {
           <div className="mr-40 mt-20 md:mr-64 flex flex-col space-y-14 items-center">
             <a href="https://in.linkedin.com/in/ashdeep-singh-56b128193?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" >
               <img
-                src="/public/linkedin-logo.png"
+                src="/linkedin-logo.png"
                 alt="LinkedIn"
                 className="h-10 w-10 hover:opacity-60 transition-opacity"
               />
             </a>
             <a href="https://github.com/Ashdeep-Singh-97" target="_blank" >
               <img
-                src="/public/github.png"
+                src="/github.png"
                 alt="GitHub"
                 className="h-10 w-10 hover:opacity-60 transition-opacity"
               />
             </a>
             <a href="mailto:ashdeepsingh1997@gmail.com" target="_blank" >
               <img
-                src="/public/gmail.png"
+                src="/gmail.png"
                 alt="Gmail"
                 className="h-10 w-10 hover:opacity-60 transition-opacity"
               />
@@ -54,7 +54,7 @@ export default function Home() {
           <div className="hidden sm:flex sm:items-center sm:ml-10 lg:ml-16 pl-12">
             <div className="blob-animation w-[300px] h-[300px] rounded-full overflow-hidden">
               <img
-                src="/public/Jiraiya.jpg"
+                src="/Jiraiya.jpg"
                 alt="Ashdeep Singh"
                 className="object-cover w-full h-full"
               />
