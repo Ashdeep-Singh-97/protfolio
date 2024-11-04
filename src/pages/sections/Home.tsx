@@ -54,7 +54,7 @@ export default function Home() {
           <div className="hidden sm:flex sm:items-center sm:ml-10 lg:ml-16 pl-12">
             <div className="blob-animation w-[300px] h-[300px] rounded-full overflow-hidden">
               <img
-                src="/Jiraiya.jpg"
+                src="/Myself.jpeg"
                 alt="Ashdeep Singh"
                 className="object-cover w-full h-full"
               />
