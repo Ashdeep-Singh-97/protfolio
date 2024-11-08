@@ -25,13 +25,13 @@ export default function EdEx() {
     },
     {
       name: "ChatBot",
-      deployment: "https://chatbot-cfpo.vercel.app/landing",
+      deployment: "https://chatbot-cfpo.vercel.app/",
       github: "https://github.com/Ashdeep-Singh-97/Chatbot",
       summary: "A ChatGPT Clone utilizing OpenAI APIs for responses. Key tech includes MongoDB for storing sessions, chats, and messages."
     },
     {
       name: "Book Finder",
-      deployment: "https://book-finder-s7v4.vercel.app/product",
+      deployment: "https://book-finder-s7v4.vercel.app/",
       github: "https://github.com/Ashdeep-Singh-97/BookFinder",
       summary: "An app for finding books, using Google API to fetch results. Includes skeletons, filters, and a side drawer. Frontend and backend are deployed separately."
     },
