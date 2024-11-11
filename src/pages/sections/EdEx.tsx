@@ -18,17 +18,17 @@ export default function EdEx() {
 
   const projectData = [
     {
-      name: "Chatter G",
-      deployment: "https://social-media-six-livid.vercel.app/",
-      github: "https://github.com/Ashdeep-Singh-97/socialMedia",
-      summary: "A social media application with features like comment, post, and chat. Uses Next.js, PostgreSQL, and a 3rd party API for images. Users can friend, unfriend, block, unblock, and chat."
+      name: "MeetUp",
+      deployment: "https://meetup-teal-tau.vercel.app/",
+      github: "https://github.com/Ashdeep-Singh-97/meetup",
+      summary: "An App which gives you a random place nearby you, Giving you a target to walk to."
     },
-    // {
-    //   name: "ChatBot",
-    //   deployment: "https://chatbot-cfpo.vercel.app/",
-    //   github: "https://github.com/Ashdeep-Singh-97/Chatbot",
-    //   summary: "A ChatGPT Clone utilizing OpenAI APIs for responses. Key tech includes MongoDB for storing sessions, chats, and messages."
-    // },
+    {
+      name: "ChatBot",
+      deployment: "https://chatbot-cfpo.vercel.app/",
+      github: "https://github.com/Ashdeep-Singh-97/Chatbot",
+      summary: "A ChatGPT Clone utilizing OpenAI APIs for responses. Key tech includes MongoDB for storing sessions, chats, and messages."
+    },
     {
       name: "Book Finder",
       deployment: "https://book-finder-s7v4.vercel.app/",
@@ -41,6 +41,12 @@ export default function EdEx() {
       github: "https://github.com/Ashdeep-Singh-97/gitClone",
       summary: "A Git clone built with Javascript, using zlib encryption-decryption for torrents. Works for every local git function."
     },
+    {
+      name: "Chatter G",
+      deployment: "https://social-media-six-livid.vercel.app/",
+      github: "https://github.com/Ashdeep-Singh-97/socialMedia",
+      summary: "A social media application with features like comment, post, and chat. Uses Next.js, PostgreSQL, and a 3rd party API for images. Users can friend, unfriend, block, unblock, and chat."
+    }
   ];
 
   return (
